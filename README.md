@@ -22,3 +22,43 @@ Além de determinar a elegibilidade, o código gera mensagens de marketing perso
 Finalmente, o código imprime os objetos de cliente atualizados com a chave "elegibilidade" e as mensagens de marketing correspondentes. Isso permite que você veja claramente a elegibilidade de cada cliente e a mensagem que receberiam.
 
 Esse programa é um exemplo simples de como podemos usar Python para automatizar tarefas de negócios, como determinar a elegibilidade de clientes e enviar mensagens personalizadas com base nessa elegibilidade. Podemos personalizar ainda mais esse código de acordo com as necessidades do projeto.
+
+***
+***
+
+Cliente ID 6489 - Nome: Maria De Lourdes, Elegibilidade: 0
+***
+Cliente ID 2755 - Nome: Cinésio Oliveira, Elegibilidade: 1
+***
+Cliente ID 7734 - Nome: Domênico Vespúcio, Elegibilidade: 0
+***
+Cliente ID 8631 - Nome: Cátia Prado, Elegibilidade: 1
+***
+Cliente ID 2383 - Nome: Janete Pereira, Elegibilidade: 0
+
+***
+***
+
+Cliente ID 6489 - Nome: Maria De Lourdes, Elegibilidade: 0, Mensagem:
+
+Olá, Maria De Lourdes! Temos uma excelente oportunidade de investimento para você. Entre em contato para saber mais e fazer seu dinheiro render.
+
+
+Cliente ID 2755 - Nome: Cinésio Oliveira, Elegibilidade: 1, Mensagem: 
+
+Prezado(a) Cinésio Oliveira, você é elegível para um empréstimo especial. Entre em contato conosco para obter mais detalhes.
+
+
+Cliente ID 7734 - Nome: Domênico Vespúcio, Elegibilidade: 0, Mensagem:
+
+Olá, Domênico Vespúcio! Temos uma excelente oportunidade de investimento para você. Entre em contato para saber mais e fazer seu dinheiro render.
+
+
+Cliente ID 8631 - Nome: Cátia Prado, Elegibilidade: 1, Mensagem: 
+
+Prezado(a) Cátia Prado, você é elegível para um empréstimo especial. Entre em contato conosco para obter mais detalhes.
+
+
+Cliente ID 2383 - Nome: Janete Pereira, Elegibilidade: 0, Mensagem: 
+
+Olá, Janete Pereira! Temos uma excelente oportunidade de investimento para você. Entre em contato para saber mais e fazer seu dinheiro render.
